@@ -1,5 +1,43 @@
-# Vue 3 + Vite
+Running the Application:
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+bash
+npm run dev
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Features Implemented
+✅ User Authentication
+
+Login with DummyJSON API
+
+Token storage in Pinia and localStorage
+
+Route protection
+
+Auto-redirect based on auth status
+
+✅ Product Management
+
+Product listing with search and category filter
+
+View individual product details
+
+Add new products
+
+Responsive design
+
+✅ State Management
+
+Pinia stores for auth and products
+
+Reactive filtering and search
+
+Loading and error states
+
+✅ Styling
+
+Tailwind CSS with primary color #000080
+
+Responsive design matching the mockups
+
+Professional UI components
+
+
